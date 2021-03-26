@@ -1,7 +1,7 @@
 # Algoritmos-2-Clase-7
 Clase 7
 
-Este programa ha sido creado utilizando el editor de código NetBeans IDE 8.2 RC de uso gratuito para temas educativos. En este repositiorio tenemos 3 tipos de ejercicios trabajados en clase con el docente Francisco J. Díaz O. de la Universidad Remington - Buga. 
+Este programa ha sido creado utilizando el editor de código NetBeans IDE 8.2 RC de uso gratuito para temas educativos. En este repositorio tenemos 3 tipos de ejercicios trabajados en clase con el docente Francisco J. Díaz O. de la Universidad Remington - Buga. 
 
 1. "CargosEmpresa.java" - Hay dos cargos de ventas en una empresa (un asesor y una de consultor). Si la persona consulta el asesor, el programa indica que en salario gana menos; si consnulta el consultor, indicará que gana más. 
 
