@@ -3,11 +3,11 @@ Clase 7
 
 Este programa ha sido creado utilizando el editor de código NetBeans IDE 8.2 RC de uso gratuito para temas educativos. En este repositiorio tenemos 3 tipos de ejercicios trabajados en clase con el docente Francisco J. Díaz O. de la Universidad Remington - Buga. 
 
-1. Hay dos cargos de ventas en una empresa (un asesor y una de consultor). Si la persona consulta el asesor, el programa indica que en salario gana menos; si consnulta el consultor, indicará que gana más. 
+1. "CargosEmpresa.java" - Hay dos cargos de ventas en una empresa (un asesor y una de consultor). Si la persona consulta el asesor, el programa indica que en salario gana menos; si consnulta el consultor, indicará que gana más. 
 
-2. Aquí definimos un vector de 5 componentes en que representen la temperatura de 5 pacientes. El programa pide la temperatura e imprime el promedio total.
+2. "TemperaturaPacientes.java" - Aquí definimos un vector de 5 componentes en que representen la temperatura de 5 pacientes. El programa pide la temperatura e imprime el promedio total.
 
-3. Para finalizar, el departamento de nomina requiere guardar el sueldo de 6 empleados en la jornada de la mañana y 6 en la noche en un vector y calcular el salario total a pagar por la empresa.
+3. "NominaTotal.java" - Para finalizar, el departamento de nomina requiere guardar el sueldo de 6 empleados en la jornada de la mañana y 6 en la noche en un vector y calcular el salario total a pagar por la empresa.
 
 Las referencias bibliográficas utilizadas para la realización fueron con ayuda del módulo de Algoritmos II de la universidad Remington 2016, la coordinación e indicaciones con el docente Francisco J. Díaz O., el ejercicio realizado en clase.
 
